@@ -1,2 +1,7 @@
-welcome:
-  message: ahla nes fel kayes
+springdoc:
+    api-docs:
+        path: /docs/api
+    swagger-ui:
+
+        path: /docs/test
+    paths-to-match: /**
